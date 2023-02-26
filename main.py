@@ -71,7 +71,7 @@ print ('5. Classes\n')
 
 from Kelas import Buku
 
-buku1 = Buku("Buku Satu",1000)
+buku1 = Buku("Buku Satu Bagus Sekali",1000)
 print(buku1.nama)
 
 
